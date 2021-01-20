@@ -7,7 +7,7 @@ namespace TestowaApka2
         public static void Main(string[] args)
         {
             Console.Out.WriteLine("test");
-            Console.Out.WriteLine("test1");
+            Console.Out.WriteLine("test2"); // dopisane w trakcie merge
         }
     }
 }
